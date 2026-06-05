@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/posts/srikanthsamanthapudi_java-springboot-angular-share-7437131700117213186-ZkL2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEz83RMB_ccSrq2FlRpT4Dsh9Hq4fqYXlCI](https://www.linkedin.com/posts/srikanthsamanthapudi_java-springboot-angular-share-7437131700117213186-ZkL2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEz83RMB_ccSrq2FlRpT4Dsh9Hq4fqYXlCI)
 
-- 💬 Ask me about **Java, Spring Boot, React, REST APIs, Microservices, Gen AI & LLMs**
+- 💬 Ask me about **Java, Spring Boot, React, REST APIs, Microservices, Cloud AWS Gen AI & LLMs**
 
 - 📫 How to reach me **srikanths9346@gmail.com**
 
