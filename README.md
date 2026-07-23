@@ -216,17 +216,11 @@ Algorithms:
 
 📧 srikanths9346@gmail.com
 
-🌐 Portfolio
+🌐 Portfolio:
 
-(Your Portfolio URL)
+💼 LinkedIn:https://www.linkedin.com/in/srikanthsamanthapudi/
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/srikanthsamanthapudi/
-
-📄 Resume
-
-(Add your latest resume URL)
+📄 Resume:https://drive.google.com/file/d/1T_zE6PSa0lgBdoxTk-53tzNjLgIrGHJ1/view
 
 ---
 
