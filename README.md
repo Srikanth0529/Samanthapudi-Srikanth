@@ -1,41 +1,235 @@
 <h1 align="center">Hi 👋, I'm Samanthapudi Srikanth</h1>
-<h3 align="center">Full-Stack Developer | Java · Spring Boot · React · AI/Gen AI | Building scalable apps from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanth0529&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth0529" /> </p>
+<h3 align="center">
+Full-Stack Java Developer • Spring Boot • React • Microservices • Cloud • AI Engineering
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanth0529" alt="srikanth0529" /></a> </p>
-
-- 🔭 I’m currently working on **Full-Stack Projects**
-
-- 🌱 I’m currently learning **Azure, Docker & System Design**
-
-- 👯 I’m looking to collaborate on **Open Source Full-Stack & Gen AI Projects (Java + React)**
-
-- 🤝 I’m looking for help with **Building Production-Grade Microservices & Cloud-Native Applications**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Srikanth0529](https://github.com/Srikanth0529)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/posts/srikanthsamanthapudi_java-springboot-angular-share-7437131700117213186-ZkL2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEz83RMB_ccSrq2FlRpT4Dsh9Hq4fqYXlCI](https://www.linkedin.com/posts/srikanthsamanthapudi_java-springboot-angular-share-7437131700117213186-ZkL2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEz83RMB_ccSrq2FlRpT4Dsh9Hq4fqYXlCI)
-
-- 💬 Ask me about **Java, Spring Boot, React, REST APIs, Microservices, Cloud AWS Gen AI & LLMs**
-
-- 📫 How to reach me **srikanths9346@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B9QKT_GsriPsD8lXlBHPUYeyV-Hvv_xj/view](https://drive.google.com/file/d/1B9QKT_GsriPsD8lXlBHPUYeyV-Hvv_xj/view)
-
-- ⚡ Fun fact **I debug code faster than I debug my life — and I'm just getting started! 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srikanthsamanthapudi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srikanthsamanthapudi/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/srikanths9346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/srikanths9346" height="30" width="40" /></a>
+<p align="center">
+Building scalable, production-ready software with clean architecture, modern frontend development, and enterprise backend engineering.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Srikanth0529&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanth0529&show_icons=true&locale=en&layout=compact" alt="srikanth0529" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikanth0529&show_icons=true&locale=en" alt="srikanth0529" /></p>
+# 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanth0529&" alt="srikanth0529" /></p>
+I'm a passionate Full-Stack Java Developer focused on building scalable and maintainable software using modern engineering practices.
+
+I enjoy transforming ideas into real-world applications through clean architecture, reusable code, and intuitive user experiences.
+
+My primary interests include:
+
+✔ Enterprise Java Development
+
+✔ Spring Boot REST APIs
+
+✔ Microservices
+
+✔ React Applications
+
+✔ Cloud Technologies
+
+✔ AI-Powered Software Development
+
+✔ Software Architecture
+
+✔ System Design
+
+---
+
+# 💼 Current Focus
+
+🔭 Building enterprise-level Java Full Stack applications
+
+🌱 Learning Cloud-Native Development, Azure, Docker & Kubernetes
+
+🚀 Exploring AI Engineering & Large Language Models
+
+📚 Improving System Design & Backend Architecture
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,vite,js,html,css,mysql,mongodb,postgres,redis,docker,kubernetes,aws,azure,git,github,linux,vscode,postman,figma"/>
+
+</p>
+
+---
+
+# 🏗 Engineering Principles
+
+✔ Clean Code
+
+✔ SOLID Principles
+
+✔ RESTful API Design
+
+✔ Reusable Components
+
+✔ Responsive UI
+
+✔ Component-Based Architecture
+
+✔ Modular CSS
+
+✔ Version Control
+
+✔ Agile Development
+
+✔ Continuous Learning
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 SmartHire
+
+Enterprise Recruitment Management System
+
+Spring Boot • React • MongoDB • JWT • REST APIs
+
+Features:
+
+• Authentication
+
+• Candidate Management
+
+• Interview Management
+
+• Job Posting
+
+• Dashboard
+
+• Role-Based Access Control
+
+---
+
+## 🛒 E-Commerce Platform
+
+Java • Spring Boot • React • MySQL
+
+Features:
+
+• Product Management
+
+• Shopping Cart
+
+• Authentication
+
+• Order Management
+
+• Responsive UI
+
+---
+
+## 🤖 Toxic Comment Classification
+
+Python • Machine Learning • NLP
+
+97% Accuracy
+
+Algorithms:
+
+• Logistic Regression
+
+• Random Forest
+
+• TF-IDF
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Srikanth0529&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanth0529&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikanth0529&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Srikanth0529&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/srikanthsamanthapudi/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:srikanths9346@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Srikanth0529">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Currently Exploring
+
+☁ Azure
+
+☁ AWS
+
+🐳 Docker
+
+☸ Kubernetes
+
+🧠 AI Engineering
+
+🤖 Generative AI
+
+🧩 System Design
+
+⚡ Microservices
+
+---
+
+# 📫 Contact
+
+📧 srikanths9346@gmail.com
+
+🌐 Portfolio
+
+(Your Portfolio URL)
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/srikanthsamanthapudi/
+
+📄 Resume
+
+(Add your latest resume URL)
+
+---
+
+# ⚡ Fun Fact
+
+> Great software isn't just code—it's solving problems through thoughtful design, scalable architecture, and continuous improvement.
